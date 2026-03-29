@@ -20,6 +20,8 @@
       sprite: Objects/Misc/handcuffs.rsi
       state: body-overlay-2
       visible: false
+    - map: [ "marking" ]
+      sprite: Mobs/Animals/scurret/scurret.rsi
   # Custom visuals for dead scurrets; be aware these do not work well with equipment.
   - type: DamageStateVisuals
     states:
@@ -170,9 +172,17 @@
     nameFormat: name-format-standard
   # They come in a variety of colours
   - type: RandomSprite
+    getAllGroups: true
     available:
     - enum.DamageStateVisualLayers.Base:
         scurret: ScurretColors
+    - marking:
+        fins: null
+        fluffy: Inherit
+        tail_spots: null
+        scar_x: Inherit
+        scar_painful: Inherit
+        tongue: null
   # They are of a mysterious gender.
   - type: Grammar
     attributes:

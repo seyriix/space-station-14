@@ -14,6 +14,7 @@
     - SuitEVA
     - MonkeyWearable
     - WhitelistChameleon
+    - ScurretWearable
 
 #Syndicate EVA
 - type: entity
@@ -31,6 +32,7 @@
     - SuitEVA
     - MonkeyWearable
     - WhitelistChameleon
+    - ScurretWearable
   - type: StaticPrice
     price: 1000 # Helmet is 500
 
@@ -88,6 +90,7 @@
     - SuitEVA
     - MonkeyWearable
     - WhitelistChameleon
+    - ScurretWearable
 
 #NTSRA Voidsuit / Ancient Voidsuit
 - type: entity
@@ -171,3 +174,4 @@
   - type: Tag
     tags:
     - WhitelistChameleon
+    - ScurretWearable

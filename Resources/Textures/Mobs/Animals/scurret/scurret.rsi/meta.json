@@ -16,6 +16,30 @@
         },
         {
             "name": "scurret_oof"
+        },
+        {
+            "name": "fins",
+            "directions": 4
+        },
+        {
+            "name": "fluffy",
+            "directions": 4
+        },
+        {
+            "name": "tail_spots",
+            "directions": 4
+        },
+        {
+            "name": "scar_x",
+            "directions": 4
+        },
+        {
+            "name": "scar_painful",
+            "directions": 4
+        },
+        {
+            "name": "tongue",
+            "directions": 4
         }
     ]
 }

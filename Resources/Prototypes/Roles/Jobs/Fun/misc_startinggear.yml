@@ -114,6 +114,7 @@
   id: EmotionalSupportScurretGear
   equipment:
     id: ScurretPDA
+    suitstorage: Spear
 
 # DeathMatch Gear
 
