@@ -139,6 +139,11 @@
         32:
           sprite: Mobs/Animals/scurret/displacement.rsi
           state: hand
+    rightHandDisplacement:
+      sizeMaps:
+        32:
+          sprite: Mobs/Animals/scurret/displacement.rsi
+          state: hand
 
   - type: InventorySlots
   - type: Edible # Why? I'm not sure but I also am afraid of the answer.
@@ -183,6 +188,7 @@
         scar_x: Inherit
         scar_painful: Inherit
         tongue: null
+        closed_eyes: Inherit
   # They are of a mysterious gender.
   - type: Grammar
     attributes:

@@ -40,6 +40,10 @@
         {
             "name": "tongue",
             "directions": 4
+        },
+        {
+            "name": "closed_eyes",
+            "directions": 4
         }
     ]
 }
